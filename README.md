@@ -6,6 +6,8 @@ This project is a complete redesign of the REMWaste skip selection page, based o
 
 Built with React, TypeScript, and Tailwind CSS, this app delivers a clean, responsive, and user-friendly interface that works seamlessly on both mobile and desktop devices.
 
+## 🚀 Live Demo
+👉 [Click here to view the app](https://rem-app-lac.vercel.app/)
 
 ## 📋 Challenge Summary
 
